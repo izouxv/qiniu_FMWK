@@ -1,0 +1,6 @@
+framework module Pods_qiniuUITests {
+  umbrella header "Pods-qiniuUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
