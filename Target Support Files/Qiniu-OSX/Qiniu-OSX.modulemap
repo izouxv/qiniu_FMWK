@@ -1,0 +1,6 @@
+framework module Qiniu {
+  umbrella header "Qiniu-OSX-umbrella.h"
+
+  export *
+  module * { export * }
+}

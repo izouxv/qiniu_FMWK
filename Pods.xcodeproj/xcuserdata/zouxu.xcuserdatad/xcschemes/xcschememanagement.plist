@@ -4,32 +4,42 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>AFNetworking.root-NSURLSession-Reachability-Security-Serialization.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>isShown</key>
+			<true/>
+		</dict>
 		<key>AFNetworking.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
 			<true/>
 		</dict>
-		<key>HappyDNS.xcscheme_^#shared#^_</key>
+		<key>HappyDNS-OSX.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
 			<true/>
 		</dict>
-		<key>Pods-qiniu.xcscheme</key>
+		<key>HappyDNS-iOS.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>isShown</key>
+			<true/>
+		</dict>
+		<key>Pods-sqlite3.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-qiniuTests.xcscheme</key>
+		<key>Pods-sqlite3mac.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-qiniuUITests.xcscheme</key>
+		<key>Qiniu-OSX.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
-			<false/>
+			<true/>
 		</dict>
-		<key>Qiniu.xcscheme_^#shared#^_</key>
+		<key>Qiniu-iOS.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
 			<true/>
@@ -37,32 +47,42 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>29FE19C04866C027CA7815BA353F8930</key>
+		<key>0FF86BD6620BB15E0D094E07FB011BE6</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>2DB6C2CD7957113C2BEC554CE594753F</key>
+		<key>1C3436CEA5C3D39764C5F54374794ECB</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>4878C70B21CA37D7CB8A476BF986741B</key>
+		<key>3F7787EE758A4D7B24981E16BF16E926</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>4E0E8AE967FA7504D24AD79D053E0B3B</key>
+		<key>4E25D90569DEB7F621F9534FFF9F27DA</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>A9B2912F3014FE824BA7AA2BBC7C8AD3</key>
+		<key>6522EA246C110D0F660B159CED62195D</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>D8DC86C2CA36A55C81BECE26B0775802</key>
+		<key>7411CA80D55DF7E564743FC4062844FC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EE97F491430E8F89B3EDE99230D965AD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F6A1803420E3DDBB09C5C8A3F35B6E62</key>
 		<dict>
 			<key>primary</key>
 			<true/>
