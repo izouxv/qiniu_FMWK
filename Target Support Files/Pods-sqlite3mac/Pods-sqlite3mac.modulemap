@@ -1,6 +1,0 @@
-framework module Pods_sqlite3mac {
-  umbrella header "Pods-sqlite3mac-umbrella.h"
-
-  export *
-  module * { export * }
-}

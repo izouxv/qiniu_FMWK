@@ -1,22 +1,31 @@
-# Uncomment this line to define a global platform for your project
-# platform :ios, '9.0'
+source 'https://github.com/CocoaPods/Specs.git'
 
- 
+def shared_dependencies
+#  pod 'HappyDNS', '>= 0.3'
+end
 
-use_frameworks!
+def test_dependencies
+  pod 'AGAsyncTestHelper/Shorthand'
+end
 
-target "sqlite3mac" do
+target 'QiniuSDK_iOS' do
+  platform :ios, '7.0'
+  shared_dependencies
+end
+
+target 'QiniuSDK_iOSTests' do
+  platform :ios, '7.0'
+  shared_dependencies
+  test_dependencies
+end
+
+target 'QiniuSDK_Mac' do
   platform :osx, '10.9'
-
- pod 'Qiniu', '~> 7.1.2'
+  shared_dependencies
 end
 
-target "sqlite3" do
-  platform :ios, '8.0'
-
- pod 'Qiniu', '~> 7.1.2'
+target 'QiniuSDK_MacTests' do
+  platform :osx, '10.9'
+  shared_dependencies
+  test_dependencies
 end
-
-
-
-
