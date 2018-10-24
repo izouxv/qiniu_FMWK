@@ -1665,6 +1665,7 @@
 				PRODUCT_NAME = AFNetworking;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SYMROOT = build;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -1700,6 +1701,7 @@
 				PRODUCT_NAME = Pods_sqlite3mac;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
+				SYMROOT = build;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
@@ -1732,6 +1734,7 @@
 				PRODUCT_NAME = Pods_sqlite3;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SYMROOT = build;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -1761,6 +1764,7 @@
 				PRODUCT_NAME = HappyDNS;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SYMROOT = build;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -1790,6 +1794,7 @@
 				PRODUCT_NAME = HappyDNS;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SYMROOT = build;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -1821,6 +1826,7 @@
 				PRODUCT_NAME = AFNetworking;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
+				SYMROOT = build;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
@@ -1851,6 +1857,7 @@
 				PRODUCT_NAME = AFNetworking;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
+				SYMROOT = build;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
@@ -1879,6 +1886,7 @@
 				PRODUCT_NAME = Qiniu;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SYMROOT = build;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -1908,6 +1916,7 @@
 				PRODUCT_NAME = AFNetworking;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SYMROOT = build;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -1943,6 +1952,7 @@
 				PRODUCT_NAME = Pods_sqlite3mac;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
+				SYMROOT = build;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
@@ -1973,6 +1983,7 @@
 				PRODUCT_NAME = HappyDNS;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
+				SYMROOT = build;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
@@ -2001,6 +2012,7 @@
 				PRODUCT_NAME = Qiniu;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SYMROOT = build;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -2032,6 +2044,7 @@
 				PRODUCT_NAME = HappyDNS;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
+				SYMROOT = build;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
@@ -2095,6 +2108,7 @@
 				PRODUCT_NAME = Pods_sqlite3;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SYMROOT = build;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
