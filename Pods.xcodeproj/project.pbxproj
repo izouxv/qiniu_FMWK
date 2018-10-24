@@ -1593,6 +1593,7 @@
 				PRODUCT_NAME = Qiniu;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
+				SYMROOT = build;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
@@ -2061,6 +2062,7 @@
 				PRODUCT_NAME = Qiniu;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
+				SYMROOT = build;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
